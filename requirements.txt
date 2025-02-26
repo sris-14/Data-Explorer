@@ -5,3 +5,4 @@ requests
 streamlit
 ydata-profiling
 streamlit-pandas-profiling
+setuptools
