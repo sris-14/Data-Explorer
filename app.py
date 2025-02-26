@@ -6,7 +6,7 @@ from streamlit_pandas_profiling import st_profile_report
 
 # FastAPI endpoint
 # FASTAPI_URL = "http://127.0.0.1:8000"
-FASTAPI_URL = "https://data-explorer-2rxe.onrender.com"
+FASTAPI_URL = "https://data-explorer-i7nf.onrender.com"
 st.set_page_config(page_title=" Data Explorer", layout="wide")
 
 st.title("Data Explorer & CSV Analyzer")
