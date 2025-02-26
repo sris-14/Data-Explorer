@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+requests
+streamlit
+ydata-profiling
+streamlit-pandas-profiling
