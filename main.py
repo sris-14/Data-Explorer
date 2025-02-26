@@ -5,8 +5,8 @@ app = FastAPI()
 
 
 # datasets
-bio_df = pd.read_csv('D:\\Olympics-api\\Olympic_Athlete_Bio.csv')
-event_df = pd.read_csv('D:\\Olympics-api\\Olympic_Athlete_Event_Result.csv')
+bio_df = pd.read_csv('Olympic_Athlete_Bio.csv')
+event_df = pd.read_csv('Olympic_Athlete_Event_Result.csv')
 
 
 
