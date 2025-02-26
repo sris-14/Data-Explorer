@@ -4,5 +4,5 @@ pandas
 requests
 streamlit
 ydata-profiling
-streamlit-pandas-profiling
+# streamlit-pandas-profiling
 setuptools
